@@ -78,8 +78,6 @@ SmartBazaar leverages a fully serverless architecture built on **Firebase** and 
 
 In a region where over 60% of farmers lack access to transparent markets, SmartBazaar provides a vital link to the digital economy. Its intuitive design is specifically tailored for new smartphone users in rural communities.
 
-Would you like me to help you draft the installation steps or a contribution guide for the repository?
-
 ## Demo Video
 
 [Watch the Demo](https://drive.google.com/file/d/1eVRNjFGbA8n3--TuDJqzwBHupej6apAh/view?usp=drive_link)
